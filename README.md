@@ -1,1 +1,1 @@
-# generalized_Lotka_Volterra
+# generalized_Lotka-Volterra
